@@ -10,6 +10,7 @@ LaraBlog is Laravel with Blog case study. This project build for support me in l
     <li>Image upload </li>
     <li>Eloquent</li>
     <li>Migration and Seeder</li>
+    <li>WYSIWYG Text Editor: CKeditor</li>
 </ul>
 
 <h3>Layout</h3>
