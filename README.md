@@ -30,7 +30,7 @@ Or you can see all package that i've used in this repo from plugins in public > 
     <li>Open your terminal / cmd / powershell and run this commands:
         <ul>
             <li>composer install / composer update</li>
-            <li>cp .env.example cp</li>
+            <li>cp .env.example .env</li>
             <li>php artisan migrate</li>
             <li>php artisan db:seed</li>
         </ul>
